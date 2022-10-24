@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 A Software Engineer with experience building distributed systems👨‍💻. Interested in Data, ML and Automation.
 
-- 🔭 Research is on Decentralized Reputation on the Web
+- 🔭 Research: Decentralized Reputation on the Web
 - 👨‍💻 Tech stack: Golang, Python, Rust, Typescript, AWS, Kubernetes, Docker.
 - ⚡ Avid Self-Hoster.
 
