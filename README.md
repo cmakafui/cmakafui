@@ -1,8 +1,8 @@
 ### 👋 Hi there 
-A Software Engineer with experience building distributed systems👨‍💻. Interested in Data, ML and Automation.
+A Software Engineer with experience building distributed systems👨‍💻. Interested in Data, AI and Automation.
 
-- 🔭 Research: Decentralized Reputation on the Web
+- 🔭 Research: Reputation Systems
 - 👨‍💻 Tech stack: Golang, Python, Rust, Typescript, AWS, Kubernetes, Docker.
 - ⚡ Avid Self-Hoster.
 
-### 📫 Reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carl-kugblenu/)
+### 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/carl-kugblenu/)
